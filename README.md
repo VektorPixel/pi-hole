@@ -1,3 +1,3 @@
 # pi-hole
 
-A collection if lists for pi-hole.
+A collection of lists for pi-hole.
